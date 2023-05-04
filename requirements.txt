@@ -1,4 +1,4 @@
-Flask==2.0.1
+Flask==2.2.5
 rich==10.11.0
 black==21.9b0
 flake8==3.9.2
